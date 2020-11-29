@@ -21,7 +21,7 @@ body {
 
 a,
 a:active {
-  color: #265ba0;
+  color: #313131;
   text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ h4.name a:hover {
 }
 
 h5 {
-  color: #4d4e53;
+  color: #313131;
 }
 
 h5, .container-overview .subsection-title {
@@ -142,7 +142,7 @@ header {
 
 section {
   display: block;
-  background-color: #fff;
+  background-color: #313131;
   padding: 0 0 0 30px;
 }
 
@@ -425,7 +425,7 @@ div.description {
 }
 
 .params td, .params .name, .props .name, .name code {
-   color: #4D4E53;
+   color: #313131;
    font-family: Consolas, Monaco, 'Andale Mono', monospace;
    font-size: 100%;
 }

@@ -39,37 +39,37 @@
   
   /* lisp close bracket */
   .clo {
-    color: #000000;
+    color: #313131;
   }
   
   /* a markup tag name */
   .tag {
-    color: #8da6ce;
+    color: #313131;
   }
   
   /* a markup attribute name */
   .atn {
-    color: #fbde2d;
+    color: #313131;
   }
   
   /* a markup attribute value */
   .atv {
-    color: #ddd;
+    color: #313131;
   }
   
   /* a declaration */
   .dec {
-    color: #EF5050;
+    color: #313131;
   }
   
   /* a variable name */
   .var {
-    color: #c82829;
+    color: #313131;
   }
   
   /* a function name */
   .fun {
-    color: #4271ae;
+    color: #313131;
   }
   
   /* Specify class=linenums on a pre to get line numbering */
